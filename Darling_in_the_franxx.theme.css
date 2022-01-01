@@ -1,0 +1,22 @@
+/**
+ * @name         Darling in the franxx
+ * @author       Pellinuz
+ * @source       https://github.com/pellinuz/BetterDiscord/tree/Themes/Darling_in_the_franxx.theme.css
+ * @invite       4RUezAVwYj
+ * @authorId     639205967090810896
+ */
+
+/* IMPORT CSS FROM GITHUB */
+@import "https://github.com/pellinuz/BetterDiscord/tree/Themes/Darling_in_the_franxx.theme.css";
+
+:root {
+    --roundness: 50px;/*Don't edit this */
+    --main-color: #51385f;
+    --hover-color: #8f4ca3;
+    --home-color: rgb(116, 91, 139);
+    --home-size: 26px;
+    --background-image: url(https://i.imgur.com/q1mueFR.jpg); /* change background */
+    --background-blur: 0px;
+    --popup-background: url(https://i.imgur.com/mprkkZI.jpg);
+    --background-darkness: 0.5; /* change the darkness of your background. 1 makes it completely black, 0 makes it like the original image */
+}
