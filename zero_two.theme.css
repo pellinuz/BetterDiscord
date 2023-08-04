@@ -8,7 +8,7 @@
  */
 
 /* IMPORT CSS FROM GITHUB */
-@import "https://github.com/pellinuz/BetterDiscord/tree/Themes/zero_two.theme.css";
+@import "https://github.com/pellinuz/BetterDiscord/blob/Themes/zero_two.theme.css";
 
 :root {
     --roundness: 45px; 
