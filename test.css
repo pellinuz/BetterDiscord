@@ -1,0 +1,44 @@
+:root {
+    /*--custom-channel-members-bg: var(--background-secondary);
+    --background-secondary: url("https://i.pinimg.com/736x/2d/7d/10/2d7d10865dea9cb52b1d80fdb349f73b.jpg") no-repeat center center;*/
+    --background-primay: url(https://i.pinimg.com/236x/c8/dd/2f/c8dd2fb7897560cf85f43879e37a1f71.jpg);
+    --chat-background: url("https://i.pinimg.com/736x/f7/87/4a/f7874a24d8511db965663f4506956356.jpg");
+}
+
+/*top left icon */
+
+.childWrapper__6e9f8, .childWrapperNoHoverBg_6e9f8 {
+    background: var(--background-primay);
+    background-size: cover;
+    background-position: center;
+    z-index: 999999;
+}
+
+.childWrapper_6e9f8 svg, .childWrapperNoHoverBg_6e9f8 svg {
+    max-width: 0px;
+    max-height: 0px;
+    height: 0;
+    width: 0;
+}
+
+/* server chats */
+
+.container_ee69e0 {
+    background: var(--sus-zero-two);
+}
+
+#callContainer_cb9592, #videoControls_bfe55a {
+    background: white;
+}
+
+.bg__960e4 {
+    background: url(https://i.pinimg.com/474x/cb/54/cd/cb54cd194ee80f6a8831d46c87748975.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.wrapper_ef3116 {
+   background: url(https://i.pinimg.com/236x/83/a4/6d/83a46d494f3ae274cb5816d34ef4e655.jpg) no-repeat;
+   background-position: center;
+   background-size: cover;
+}

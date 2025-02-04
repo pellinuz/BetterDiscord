@@ -1,0 +1,22 @@
+/**
+ * @name         Zero Two With the moon
+ * @description  Zero Two theme made it from Pellinuz#3725
+ * @author       Pellinuz
+ * @source       https://github.com/pellinuz/BetterDiscord/tree/Themes/zero_two.theme.css
+ * @invite       4RUezAVwYj
+ * @authorId     639205967090810896
+ */
+
+/* IMPORT CSS FROM GITHUB */
+@import "https://github.com/pellinuz/BetterDiscord/blob/Themes/zero_two.theme.css";
+
+:root {
+    --roundness: 45px; 
+    --main-color: #ac1dff;
+    --hover-color: #095179;
+    --shadow: rgba(0,0,0,.4);
+    --background-image: url(https://hdqwalls.com/wallpapers/zero-two-darling-in-the-franxx-gv.jpg); /* change background */
+    --background-blur: 0px; /* Main Background Blur */
+    --popup-background: url(https://hdqwalls.com/wallpapers/zero-two-darling-in-the-franxx-gv.jpg);  /* Background for popups and modals */
+    --background-darkness: 0.75;
+}
